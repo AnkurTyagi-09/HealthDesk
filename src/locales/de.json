@@ -1,0 +1,41 @@
+{
+  "appointment": {
+    "doctor_name": "{{name}}",
+    "degree_speciality": "{{degree}} - {{speciality}}",
+    "experience": "{{experience}}",
+    "about": "Über",
+    "appointment_fee": "Termingebühr: {{currency}}{{fees}}",
+    "booking_slots": "Buchungszeiten",
+    "book_appointment": "Termin buchen",
+    "confirm_appointment": "Termin bestätigen",
+    "confirm_message": "Möchten Sie wirklich einen Termin mit {{name}} am {{date}} um {{time}} buchen?",
+    "cancel": "Abbrechen",
+    "confirm": "Bestätigen",
+    "record_symptoms": "Symptome aufzeichnen",
+    "start_recording": "Aufnahme starten",
+    "stop_recording": "Aufnahme stoppen",
+    "recording_error": "Zugriff auf Kamera oder Mikrofon fehlgeschlagen",
+    "recording_saved": "Aufnahme erfolgreich hochgeladen",
+    "upload_file": "Videodatei hochladen",
+    "upload_error": "Fehler beim Hochladen der Datei",
+    "upload_progress": "Hochladen: {{progress}}%",
+    "download_recording": "Hochgeladenes Video ansehen",
+    "symptom_questions": [
+      "Welche Symptome haben Sie?",
+      "Wie lange haben Sie diese Symptome schon?",
+      "Haben Sie Schmerzen oder Beschwerden?"
+    ],
+    "select_language": "Sprache auswählen",
+    "error_doctor_not_found": "Arzt nicht gefunden",
+    "error_fetch_failed": "Fehler beim Abrufen der Arztinformationen",
+    "recording_time": "Aufnahmezeit: {{time}}",
+    "certifications": "Zertifizierungen",
+    "hospital_affiliations": "Krankenhauszuordnungen",
+    "rating": "Bewertung: {{rating}} / 5",
+    "availability_status": "Status: {{status}}",
+    "booked": "Gebucht",
+    "recording_complete": "Aufnahme abgeschlossen",
+    "no_certifications": "Keine Zertifizierungen verfügbar",
+    "no_affiliations": "Keine Krankenhauszuordnungen verfügbar"
+  }
+}

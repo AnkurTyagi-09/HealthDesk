@@ -1,0 +1,41 @@
+{
+  "appointment": {
+    "doctor_name": "{{name}}",
+    "degree_speciality": "{{degree}} - {{speciality}}",
+    "experience": "{{experience}}",
+    "about": "के बारे में",
+    "appointment_fee": "नियुक्ति शुल्क: {{currency}}{{fees}}",
+    "booking_slots": "बुकिंग स्लॉट",
+    "book_appointment": "नियुक्ति बुक करें",
+    "confirm_appointment": "नियुक्ति की पुष्टि करें",
+    "confirm_message": "क्या आप {{name}} के साथ {{date}} को {{time}} पर नियुक्ति बुक करना चाहते हैं?",
+    "cancel": "रद्द करें",
+    "confirm": "पुष्टि करें",
+    "record_symptoms": "लक्षण रिकॉर्ड करें",
+    "start_recording": "रिकॉर्डिंग शुरू करें",
+    "stop_recording": "रिकॉर्डिंग बंद करें",
+    "recording_error": "कैमरा या माइक्रोफोन तक पहुंचने में विफल",
+    "recording_saved": "रिकॉर्डिंग सफलतापूर्वक अपलोड की गई",
+    "upload_file": "वीडियो फ़ाइल अपलोड करें",
+    "upload_error": "फ़ाइल अपलोड करने में विफल",
+    "upload_progress": "अपलोड हो रहा है: {{progress}}%",
+    "download_recording": "अपलोड किया गया वीडियो देखें",
+    "symptom_questions": [
+      "आपको कौन से लक्षण अनुभव हो रहे हैं?",
+      "आपको ये लक्षण कब से हैं?",
+      "क्या आपको कोई दर्द या असुविधा हो रही है?"
+    ],
+    "select_language": "भाषा चुनें",
+    "error_doctor_not_found": "डॉक्टर नहीं मिला",
+    "error_fetch_failed": "डॉक्टर की जानकारी प्राप्त करने में विफल",
+    "recording_time": "रिकॉर्डिंग समय: {{time}}",
+    "certifications": "प्रमाणपत्र",
+    "hospital_affiliations": "अस्पताल संबद्धता",
+    "rating": "रेटिंग: {{rating}} / 5",
+    "availability_status": "स्थिति: {{status}}",
+    "booked": "बुक किया गया",
+    "recording_complete": "रिकॉर्डिंग पूर्ण",
+    "no_certifications": "कोई प्रमाणपत्र उपलब्ध नहीं",
+    "no_affiliations": "कोई अस्पताल संबद्धता उपलब्ध नहीं"
+  }
+}

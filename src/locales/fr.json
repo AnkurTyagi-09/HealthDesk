@@ -1,0 +1,41 @@
+{
+  "appointment": {
+    "doctor_name": "{{name}}",
+    "degree_speciality": "{{degree}} - {{speciality}}",
+    "experience": "{{experience}}",
+    "about": "À propos",
+    "appointment_fee": "Frais de rendez-vous : {{currency}}{{fees}}",
+    "booking_slots": "Créneaux horaires",
+    "book_appointment": "Réserver un rendez-vous",
+    "confirm_appointment": "Confirmer le rendez-vous",
+    "confirm_message": "Êtes-vous sûr de vouloir réserver un rendez-vous avec {{name}} le {{date}} à {{time}} ?",
+    "cancel": "Annuler",
+    "confirm": "Confirmer",
+    "record_symptoms": "Enregistrer les symptômes",
+    "start_recording": "Démarrer l'enregistrement",
+    "stop_recording": "Arrêter l'enregistrement",
+    "recording_error": "Impossible d'accéder à la caméra ou au microphone",
+    "recording_saved": "Enregistrement téléchargé avec succès",
+    "upload_file": "Télécharger un fichier vidéo",
+    "upload_error": "Échec du téléchargement du fichier",
+    "upload_progress": "Téléchargement : {{progress}}%",
+    "download_recording": "Voir la vidéo téléchargée",
+    "symptom_questions": [
+      "Quels symptômes ressentez-vous ?",
+      "Depuis combien de temps avez-vous ces symptômes ?",
+      "Ressentez-vous une douleur ou un inconfort ?"
+    ],
+    "select_language": "Sélectionner la langue",
+    "error_doctor_not_found": "Médecin non trouvé",
+    "error_fetch_failed": "Échec de la récupération des informations du médecin",
+    "recording_time": "Temps d'enregistrement : {{time}}",
+    "certifications": "Certifications",
+    "hospital_affiliations": "Affiliations hospitalières",
+    "rating": "Note : {{rating}} / 5",
+    "availability_status": "Statut : {{status}}",
+    "booked": "Réservé",
+    "recording_complete": "Enregistrement terminé",
+    "no_certifications": "Aucune certification disponible",
+    "no_affiliations": "Aucune affiliation hospitalière disponible"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "appointment": {
+    "doctor_name": "{{name}}",
+    "degree_speciality": "{{degree}} - {{speciality}}",
+    "experience": "{{experience}}",
+    "about": "Acerca de",
+    "appointment_fee": "Tarifa de cita: {{currency}}{{fees}}",
+    "booking_slots": "Franjas horarias",
+    "book_appointment": "Reservar cita",
+    "confirm_appointment": "Confirmar cita",
+    "confirm_message": "¿Estás seguro de que quieres reservar una cita con {{name}} el {{date}} a las {{time}}?",
+    "cancel": "Cancelar",
+    "confirm": "Confirmar",
+    "record_symptoms": "Grabar síntomas",
+    "start_recording": "Iniciar grabación",
+    "stop_recording": "Detener grabación",
+    "recording_error": "No se pudo acceder a la cámara o al micrófono",
+    "recording_saved": "Grabación guardada con éxito",
+    "upload_file": "Subir archivo de video",
+    "upload_error": "Error al subir archivo",
+    "upload_progress": "Subiendo: {{progress}}%",
+    "download_recording": "Ver video subido",
+    "symptom_questions": [
+      "¿Qué síntomas estás experimentando?",
+      "¿Cuánto tiempo has tenido estos síntomas?",
+      "¿Estás experimentando algún dolor o molestia?"
+    ],
+    "select_language": "Seleccionar idioma",
+    "error_doctor_not_found": "Médico no encontrado",
+    "error_fetch_failed": "Error al obtener información del médico",
+    "recording_time": "Tiempo de grabación: {{time}}",
+    "certifications": "Certificaciones",
+    "hospital_affiliations": "Afiliaciones hospitalarias",
+    "rating": "Calificación: {{rating}} / 5",
+    "availability_status": "Estado: {{status}}",
+    "booked": "Reservado",
+    "recording_complete": "Grabación completa",
+    "no_certifications": "No hay certificaciones disponibles",
+    "no_affiliations": "No hay afiliaciones hospitalarias disponibles"
+  }
+}

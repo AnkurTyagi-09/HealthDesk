@@ -1,0 +1,41 @@
+{
+  "appointment": {
+    "doctor_name": "{{name}}",
+    "degree_speciality": "{{degree}} - {{speciality}}",
+    "experience": "{{experience}}",
+    "about": "About",
+    "appointment_fee": "Appointment Fee: {{currency}}{{fees}}",
+    "booking_slots": "Booking Slots",
+    "book_appointment": "Book Appointment",
+    "confirm_appointment": "Confirm Appointment",
+    "confirm_message": "Are you sure you want to book an appointment with {{name}} on {{date}} at {{time}}?",
+    "cancel": "Cancel",
+    "confirm": "Confirm",
+    "record_symptoms": "Record Symptoms",
+    "start_recording": "Start Recording",
+    "stop_recording": "Stop Recording",
+    "recording_error": "Failed to access camera or microphone",
+    "recording_saved": "Recording uploaded successfully",
+    "upload_file": "Upload Video File",
+    "upload_error": "Failed to upload file",
+    "upload_progress": "Uploading: {{progress}}%",
+    "download_recording": "View Uploaded Video",
+    "symptom_questions": [
+      "What symptoms are you experiencing?",
+      "How long have you had these symptoms?",
+      "Are you experiencing any pain or discomfort?"
+    ],
+    "select_language": "Select Language",
+    "error_doctor_not_found": "Doctor not found",
+    "error_fetch_failed": "Failed to fetch doctor information",
+    "recording_time": "Recording Time: {{time}}",
+    "certifications": "Certifications",
+    "hospital_affiliations": "Hospital Affiliations",
+    "rating": "Rating: {{rating}} / 5",
+    "availability_status": "Status: {{status}}",
+    "booked": "Booked",
+    "recording_complete": "Recording complete",
+    "no_certifications": "No certifications available",
+    "no_affiliations": "No hospital affiliations available"
+  }
+}

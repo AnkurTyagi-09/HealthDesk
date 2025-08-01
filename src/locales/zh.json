@@ -1,0 +1,41 @@
+{
+  "appointment": {
+    "doctor_name": "{{name}}",
+    "degree_speciality": "{{degree}} - {{speciality}}",
+    "experience": "{{experience}}",
+    "about": "关于",
+    "appointment_fee": "预约费用：{{currency}}{{fees}}",
+    "booking_slots": "预约时段",
+    "book_appointment": "预约",
+    "confirm_appointment": "确认预约",
+    "confirm_message": "您确定要与{{name}}在{{date}}的{{time}}进行预约吗？",
+    "cancel": "取消",
+    "confirm": "确认",
+    "record_symptoms": "记录症状",
+    "start_recording": "开始录制",
+    "stop_recording": "停止录制",
+    "recording_error": "无法访问摄像头或麦克风",
+    "recording_saved": "录制成功上传",
+    "upload_file": "上传视频文件",
+    "upload_error": "上传文件失败",
+    "upload_progress": "上传中：{{progress}}%",
+    "download_recording": "查看上传的视频",
+    "symptom_questions": [
+      "您有哪些症状？",
+      "您有这些症状多久了？",
+      "您感到疼痛或不适吗？"
+    ],
+    "select_language": "选择语言",
+    "error_doctor_not_found": "未找到医生",
+    "error_fetch_failed": "获取医生信息失败",
+    "recording_time": "录制时间：{{time}}",
+    "certifications": "认证",
+    "hospital_affiliations": "医院隶属关系",
+    "rating": "评分：{{rating}} / 5",
+    "availability_status": "状态：{{status}}",
+    "booked": "已预约",
+    "recording_complete": "录制完成",
+    "no_certifications": "无可用认证",
+    "no_affiliations": "无医院隶属关系"
+  }
+}
